@@ -1,0 +1,14 @@
+# Multi-Agent Content Creator — JK Data Lab
+
+# Core UI framework
+streamlit>=1.35.0
+
+# HTTP / API (Ollama & external services)
+requests>=2.31.0
+
+# LLM / Agent orchestration
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+# Environment configuration
+python-dotenv>=1.0.0
